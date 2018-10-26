@@ -1,6 +1,6 @@
 {
   "name": "@chiaweilee/sassvar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.js",
   "directories": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/chiaweilee/sass-variables-loader/issues"
   },
-  "homepage": "https://github.com/chiaweilee/sass-variables-loader#readme"
+  "homepage": "https://github.com/chiaweilee/sass-variables-loader#readme",
+  "dependencies": {
+    "sass-extract": "^2.1.0"
+  }
 }
